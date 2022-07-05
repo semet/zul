@@ -13,7 +13,8 @@ const Home: NextPage = () => {
 			</Head>
 
 			<main className={styles.main}>
-				<h1 className={styles.title}>Zul</h1>
+				<h1 className={styles.title}>I Love You</h1>
+				<img src="/heart.png" alt="" />
 			</main>
 		</div>
 	);
